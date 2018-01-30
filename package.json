@@ -1,0 +1,31 @@
+{
+  "name": "wmf2image",
+  "version": "0.0.1",
+  "description": "wmf2image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvyue/wmf2image.git"
+  },
+  "keywords": [
+    "wmf",
+    "svg",
+    "wmf2image"
+  ],
+  "author": "Yue Lv <lvyuely@yeah.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvyue/wmf2image/issues"
+  },
+  "homepage": "https://github.com/lvyue/wmf2image#readme",
+  "dependencies": {
+    "cross-spawn": "^6.0.3",
+    "debug": "^3.1.0"
+  },
+  "devDependencies": {
+    "async": "^2.6.0"
+  }
+}
