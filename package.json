@@ -1,6 +1,6 @@
 {
   "name": "libwmf",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Using libwmf to chang *.wmf file to JPG,PNG,SVG files.",
   "main": "index.js",
   "repository": {
