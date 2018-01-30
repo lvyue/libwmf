@@ -20,11 +20,11 @@ brew install libwmf
 ```  
 then either use npm:  
 ```sh
-npm install wmf --save
+npm install libwmf --save
 ```  
 or clone the repo:  
 ```sh
-git clone https://github.com/lvyue/wmf.git
+git clone https://github.com/lvyue/libwmf.git
 ```  
 
 ## Basic Usage  
