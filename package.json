@@ -1,0 +1,32 @@
+{
+  "name": "wmf",
+  "version": "0.0.1",
+  "description": "Using libwmf to chang *.wmf file to JPG,PNG,SVG files.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvyue/wmf.git"
+  },
+  "keywords": [
+    "wmf",
+    "wmf2image",
+    "wmf convert",
+    "wmf2png",
+    "wmf2jpg",
+    "wmf2jpeg",
+    "wmf2svg"
+  ],
+  "author": "Yue Lv <lvyuely@yeah.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvyue/wmf/issues"
+  },
+  "homepage": "https://github.com/lvyue/wmf#readme",
+  "dependencies": {
+    "cross-spawn": "^6.0.3",
+    "debug": "^3.1.0"
+  },
+  "devDependencies": {
+    "async": "^2.6.0"
+  }
+}
