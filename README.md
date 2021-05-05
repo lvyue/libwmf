@@ -29,7 +29,7 @@ git clone https://github.com/lvyue/libwmf.git
 
 ## Basic Usage  
 ```js 
-var wmf = require('wmf');
+var wmf = require('libwmf');
 
 // convert to jpg
 wmf('/path/to/my/demo.wmf')
